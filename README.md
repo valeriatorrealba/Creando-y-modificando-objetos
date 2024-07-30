@@ -1,16 +1,18 @@
-# Desafío opcional - Creando y modificando objetos
+# Desafío Opcional - Creando y Modificando Objetos
 
-Aplicando los conceptos y herramientas aprendidas hasta ahora, nos pondremos en el caso
-de que un consultorio médico requiere un programa realizado en JavaScript, que permita
-almacenar y/o modificar los datos de sus pacientes. Así como filtrar y mostrar los pacientes
-por nombre para poder hacer una búsqueda más rápida y ubicar la historia médica de cada
-persona. En el siguiente diagrama UML se puede observar cual es la cardinalidad de los
-objetos y las propiedades que tiene cada uno.
+## Descripción
+
+Este desafío consiste en desarrollar un programa en JavaScript para un consultorio médico. El objetivo es crear un sistema que permita almacenar, modificar, buscar y mostrar datos de pacientes utilizando objetos. Se requiere implementar funcionalidades específicas como getters y setters para proteger los datos y métodos de búsqueda para filtrar pacientes por nombre.
+
+## Requerimientos
+
+1. **Crear Funciones Constructoras para Objetos**
+2. **Implementar Métodos Getters y Setters**
+3. **Crear Métodos para Buscar y Mostrar Datos**
+4. **Instanciar Objetos Utilizando `new`**
+
+## Diagrama UML
+
+El diagrama UML proporcionado ilustra la estructura y cardinalidad de los objetos y sus propiedades. Puedes ver el diagrama aquí:
 
 ![uml](screenshot/uml.png)
-
-Primeramente se deben mostrar todos los pacientes con sus datos personales, luego
-mediante un método de búsqueda, mostrar los datos del paciente que concuerden con el
-nombre que se envíe al método como argumento. Igualmente se deben proteger los datos y
-evitar modificaciones directas, por lo que se debe implementar getters y setters. Todo esto
-se puede mostrar en la consola del navegador web de tu preferencia.
