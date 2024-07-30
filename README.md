@@ -17,6 +17,11 @@ El diagrama UML proporcionado ilustra la estructura y cardinalidad de los objeto
 
 ![uml](assets/screenshot/uml.png)
 
+## Instrucciones para Ejecutar
+
+1. Abre index.html en tu navegador web.
+2. Para ver los resultados, abre la consola de tu navegador.
+
 ## Autor
 
 Este proyecto fue desarrollado por **Valeria Torrealba**.
