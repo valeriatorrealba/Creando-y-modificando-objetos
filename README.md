@@ -16,3 +16,7 @@ Este desafío consiste en desarrollar un programa en JavaScript para un consulto
 El diagrama UML proporcionado ilustra la estructura y cardinalidad de los objetos y sus propiedades. Puedes ver el diagrama aquí:
 
 ![uml](assets/screenshot/uml.png)
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
