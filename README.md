@@ -15,4 +15,4 @@ Este desafío consiste en desarrollar un programa en JavaScript para un consulto
 
 El diagrama UML proporcionado ilustra la estructura y cardinalidad de los objetos y sus propiedades. Puedes ver el diagrama aquí:
 
-![uml](screenshot/uml.png)
+![uml](assets/screenshot/uml.png)
